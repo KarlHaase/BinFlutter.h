@@ -7,7 +7,7 @@ The rationale was the need to be create lighting effects that contained noice th
 
 Uses the Arduino millis() timer to schedule updates, does not block usings delay(), allowing other code to run between updates.
 
-##Installation:
+## Installation:
 For a single program, copy BinFlutter.h and BinFlutter.cpp into the arduino sketch folder and add the following to the top of the sketch:
 #include "./Binflutter.h"
 
