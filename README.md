@@ -3,7 +3,7 @@
 
 BinFlutter (binary fluttering) is a library that randomly cycles a digital output within a given range of periods and duty cycle.
 
-The rationale was the need to be create lighting effects that contained noice that simulated sparking, poor contacts, or weak signals, while not using analog outputs (so it will work on any pin) and not block other code from running.
+The justification for this library is the need to create lighting effects that contained noise that simulated sparking, poor contacts, or weak signals, while not using analog outputs (so it will work on any output pin) and not block other code from running. 
 
 Uses the Arduino millis() timer to schedule updates, does not block usings delay(), allowing other code to run between updates.
 
