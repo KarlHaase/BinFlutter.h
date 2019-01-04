@@ -26,10 +26,10 @@ After installing the libraries, there is a basic example that will setup the bui
 ## Tested on:
 * Arduino Uno
 * Arduino Leonardo
-* Pro Mini
+* Arduino Pro Mini
 
 ## References
-Based very loosely on Flicker.h
+Based very loosely on: Flicker.h
 [https://github.com/greygoo/Flicker/](https://github.com/greygoo/Flicker/)
 
 Informed by Adafruit Multi-Tasking with Arduino:
